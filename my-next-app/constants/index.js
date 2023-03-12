@@ -1,4 +1,6 @@
 export const WHITELIST_CONTRACT_ADDRESS = "0x91186808173Ec8505f3CE684C342c6055B9dEb91";
+export const GOERLI_CHAIN_ID = 5;
+export const NETWORK_NAME = "goerli";
 export const abi = [
   {
     "inputs": [
