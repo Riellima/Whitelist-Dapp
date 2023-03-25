@@ -1,8 +1,7 @@
 Implementation of a "whitelist dapp" using [LearnWeb3Dao](https://learnweb3.io/) tutorial
 
 ## Context
-We'll be launching your NFT collection named `Crypto Devs`. We want to give our early supporters access to a whitelist for our collection, so here you are creating a whitelist dapp for `Crypto Devs`
-
+We'll be launching our NFT collection named `Crypto Devs`. We want to give our early supporters access to a whitelist for our collection.
 
 ![](https://i.imgur.com/zgY0TGo.png)
 
