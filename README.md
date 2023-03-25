@@ -12,5 +12,5 @@ We'll be launching our NFT collection named `Crypto Devs`. We want to give our e
 
 ## Deployement
 Deployed on Goerli testnet @0x91186808173Ec8505f3CE684C342c6055B9dEb91
-Dapp link : https://whitelist-dapp-riellima.vercel.app/
 
+Dapp link : https://whitelist-dapp-riellima.vercel.app/
